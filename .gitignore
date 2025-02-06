@@ -1,0 +1,9 @@
+.vscode/
+.cache/
+**/.cache/**
+.clangd*
+build/
+sdkconfig
+sdkconfig.old
+managed_components/**
+*.lock
