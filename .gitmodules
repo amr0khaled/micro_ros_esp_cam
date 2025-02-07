@@ -1,0 +1,6 @@
+[submodule "managed_components/micro_ros"]
+	path = managed_components/micro_ros
+	url = https://github.com/micro-ROS/micro_ros_espidf_component.git
+[submodule "managed_components/espressif__esp32-camera"]
+	path = managed_components/espressif__esp32-camera
+	url = https://github.com/espressif/esp32-camera.git

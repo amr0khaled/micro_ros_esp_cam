@@ -15,5 +15,7 @@ dependencies:
   #   # All dependencies of `main` are public by default.
     public: true
   espressif/esp32-camera: '*'
+  micro_ros:
+    path: ../managed_components/micro_ros
   protocol_examples_common:
     path: ${IDF_PATH}/examples/common_components/protocol_examples_common
