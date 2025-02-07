@@ -5,8 +5,6 @@
 cmake_minimum_required(VERSION 3.5)
 
 include_directories($ENV{IDF_PATH}/components/**)
-# include_directories("$ENV{HOME}/Arduino/libraries/**")
-# include_directories("$ENV{HOME}/Arduino/libraries/micro_ros_arduino/src/**")
 
 include(/home/amr0khaled/microros_ws/firmware/toolchain/esp-idf/tools/cmake/project.cmake)
 add_compile_options(-DBOARD_HAS_PSRAM=1)

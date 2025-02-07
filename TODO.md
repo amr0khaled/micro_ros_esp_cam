@@ -2,8 +2,8 @@
   1. WIFI Setup & Connection
   2. Camera initilization & integration
   3. Camera stream in MJPEG Format
-  - [ ] Set up WIFI
-  - [ ] Initilize & Connect to WIFI
+  - [x] Set up WIFI
+  - [x] Initilize & Connect to WIFI
   - [ ] Set up Camera
   - [ ] Initilize Camera
   - [ ] Stream from Camera
